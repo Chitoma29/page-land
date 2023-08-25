@@ -1,0 +1,127 @@
+*{
+    color: white;
+    font-family: 'Roboto', sans-serif; 
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+.partone{ 
+    background-color: #1F2937;
+
+}
+.head{
+    display: flex;
+    color:white;
+    justify-content: space-around;
+    
+}
+.header-logo{
+    display: flex;
+    font-size: 24px;
+    color: #F9FAF8;
+    
+}
+.links{
+    display: flex;
+    justify-content: flex-end;
+}
+.detsils{
+    margin-left: 20px;
+
+}
+.login{
+    margin-left: 20px;
+}
+
+.main-text{
+    display: flex;
+    color:white;
+    justify-content: space-around
+    
+}
+
+.mixed{
+    display: flex;
+    justify-content: center;
+    margin: 25px 260px;
+    line-height: 1.5rem;
+}
+
+.pic {
+    margin-left: 150PX;
+    
+}
+.web{
+    font-size: 48px;
+    color: #F9FAF8;
+    margin-bottom: 20px;
+}
+
+.sign{
+    background-color: #3882F6;
+    width: 200;
+    height: 50;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.random{
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.photos{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 260px;
+    color: #1F2937;
+}
+
+
+.bims {
+    background-color: #9ea3aa;
+}
+.paragraph{
+    margin: 20px 260px;
+    line-height: 1.5rem;
+
+}
+
+.thor{
+    text-align: right;
+    padding: 20px;
+    margin: 20px 260px;
+}
+.call{
+    
+    font-size: 30px;
+    color: #1F2937;
+    margin: 25px 260px;
+}
+.over{
+    background-color: #3882F6;
+}
+.button{
+    display: flex;
+    background-color: #3882F6;
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+    font-size: 14px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-top: 2rem;
+    padding: 1rem;
+    
+}
+ .copyright {
+   margin-top: 40px;
+}
